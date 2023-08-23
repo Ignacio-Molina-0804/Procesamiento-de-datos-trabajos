@@ -1,0 +1,66 @@
+
+.titulo {
+
+    text-align: center;
+    text-size-adjust: 5px;
+    border-bottom: 5px solid black;
+
+}
+
+.busqueda {
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+.caja {
+
+    width: 20%;
+    height: 20px;
+    padding-top: none;
+    padding: 10px;
+    border: 4px solid black;
+    text-align: center;
+
+}
+
+.texto {
+
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-top: 3px dashed black ;
+    border-bottom: 3px dashed black ;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.espacio {
+
+    padding-top: 50px;
+
+}
+
+.centrar {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 5px dashed black;
+}
+
+.linea {
+
+    border-bottom: 3px dashed black;
+
+}
+
+.centrado {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
